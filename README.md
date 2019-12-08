@@ -16,6 +16,6 @@ Plant-Disease-Detection is a project which is used to classify and predcit plant
 
 It has train on CNN and RNN over more than 70 thousand images with Mobinet Architecture
 
-Finally, It is developed using Flask at http://0.0.0.0:8080
+Finally, It is deployed using Flask and can be executable at http://0.0.0.0:8080
 
 Further Improvements and bug discovery is appreciable
